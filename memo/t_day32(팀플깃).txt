@@ -199,6 +199,7 @@ git
 
 	git pull origin main
 
+<<<<<<< HEAD
 1) git 브랜치 확인, 수정 명령어
    git branch
       현재 로컬의 브랜치들을 확인한다
@@ -211,6 +212,8 @@ git
    
    git branch -D 브랜치명
       브런치를 삭제한다
+=======
+>>>>>>> 928f5df16ccbf27c8eaf65def6bcf599c907957e
 
 
 
